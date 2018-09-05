@@ -1,5 +1,4 @@
 ## terraform gcp examples
-#just adding another comment
 ## Modules
 
 - [GCS bucket](https://github.com/tasdikrahman/terraform-gcp-examples/tree/master/gcs-bucket/)
