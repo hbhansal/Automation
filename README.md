@@ -7,7 +7,7 @@
 - [single-node-compute-vm](https://github.com/tasdikrahman/terraform-gcp-examples/tree/master/single-and-multi-node-compute-vm)
 - [test-env](https://github.com/tasdikrahman/terraform-gcp-examples/tree/master/test-env/)
 
-### Setup
+### Setup ######################################################
 
 Don't forget to place the file `account.json` inside the `credentials` dir in the root directory before running which would contain your service Account Key file.
 
